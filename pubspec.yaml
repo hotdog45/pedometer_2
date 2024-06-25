@@ -17,8 +17,8 @@ screenshots:
     path: assets/example_preview.png
 
 environment:
-  sdk: ">=3.3.4 <4.0.0"
-  flutter: ">=3.3.0"
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=3.16.0"
 
 dependencies:
   flutter:
